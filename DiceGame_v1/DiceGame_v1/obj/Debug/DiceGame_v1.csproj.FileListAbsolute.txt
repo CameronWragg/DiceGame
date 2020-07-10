@@ -1,0 +1,12 @@
+E:\Dice Program\DiceGame_v1\DiceGame_v1\bin\Debug\DiceGame_v1.exe.config
+E:\Dice Program\DiceGame_v1\DiceGame_v1\bin\Debug\DiceGame_v1.exe
+E:\Dice Program\DiceGame_v1\DiceGame_v1\bin\Debug\DiceGame_v1.pdb
+E:\Dice Program\DiceGame_v1\DiceGame_v1\obj\Debug\DiceGame_v1.csprojResolveAssemblyReference.cache
+E:\Dice Program\DiceGame_v1\DiceGame_v1\obj\Debug\DiceGame_v1.exe
+E:\Dice Program\DiceGame_v1\DiceGame_v1\obj\Debug\DiceGame_v1.pdb
+F:\Dice Program\DiceGame_v1\DiceGame_v1\bin\Debug\DiceGame_v1.exe.config
+F:\Dice Program\DiceGame_v1\DiceGame_v1\obj\Debug\DiceGame_v1.exe
+F:\Dice Program\DiceGame_v1\DiceGame_v1\obj\Debug\DiceGame_v1.pdb
+F:\Dice Program\DiceGame_v1\DiceGame_v1\bin\Debug\DiceGame_v1.exe
+F:\Dice Program\DiceGame_v1\DiceGame_v1\bin\Debug\DiceGame_v1.pdb
+F:\Dice Program\DiceGame_v1\DiceGame_v1\obj\Debug\DiceGame_v1.csprojResolveAssemblyReference.cache
